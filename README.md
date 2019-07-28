@@ -3,7 +3,7 @@
 ##### Scheduler used for CRON module
 #
 
->> The payload exemple received
+> The payload exemple received
 #
 ```javascript
 // Exemplo object receive
@@ -19,7 +19,7 @@
 ```
 ___
 #
->> The sample payload sent
+> The sample payload sent
 #
 ```javascript
 // Exemplo object sent
@@ -32,5 +32,5 @@ ___
 ```
 ___
 #
-#
+
 ###### Develop by *Walesson Silva*
