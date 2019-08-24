@@ -33,4 +33,4 @@ ___
 ___
 #
 
-###### Develop by *Walesson Silva*
+###### Developed by *Walesson Silva*
